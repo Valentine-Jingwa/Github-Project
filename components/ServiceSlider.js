@@ -30,28 +30,29 @@ export const serviceData = [
   {
     icon: <RiJavascriptLine /> ,
     title: 'Javascript',
-    description: 'Turning coffee and cream into code, one line at a time.',
+    description: 'Building interactive and dynamic web experiences.',
   },
   {
     icon: <FaReact />,
     title: 'React',
-    description: 'Crafting reactive and dynamic web experiences with ease.',
+    description: 'Creating scalable and maintainable web applications.',
   },
   {
     icon: <IoPhonePortraitOutline />,
     title: 'React Native',
-    description: 'Bridging the gap between desktop and mobile, seamlessly.',
+    description: 'Developing cross-platform mobile applications.',
   },
   {
     icon: <FaFigma />,
     title: 'UI/UX Design',
-    description: 'Designing intuitive interfaces that stand out.',
+    description: 'Designing beautiful and intuitive user interfaces.',
   },
   {
     icon: <CiChat1 />,
     title: 'Communication',
-    description: 'Creating successful projects through clear communication.',
+    description: 'Communicating effectively and working in teams.',
   },
+
 ];
 
 const ServiceSlider = () => {

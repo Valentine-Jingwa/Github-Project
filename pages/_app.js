@@ -21,8 +21,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
     <Head>
-      <title>Jean-Pierre</title>
-      <meta name="description" content="Jean-Pierre's Portfolio" />
+      <title>Valentine Jingwa</title>
+      <meta name="description" content="Valentine's Portfolio" />
       <link rel="icon" href='/favicon-32x32.png'/>
     </Head>
     <Layout>

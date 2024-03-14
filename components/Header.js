@@ -19,7 +19,7 @@ const Header = () => {
               height={48}
               alt=''
               priority={true} >
-              Jean-Pierre
+              Valentine Jingwa
             </h1>
 
           </Link>
